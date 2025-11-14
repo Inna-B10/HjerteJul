@@ -29,17 +29,23 @@ Endepunktene til backenden skal støtte standard CRUD operasjonene frontend dele
 
 Man skal bruke `HTML`, `CSS`, `Javascript` og gjerne `JSON` til oppgaven.
 
+## 💎 Description
+
 [<img src="preview.png" height="250" align="right"/>](preview.png)
+
+"HjerteJul" is a group project developed with JavaScript and C# that connects users to families based on house size, food preferences, and allergies. It features CRUD functionality for managing families and a search tool for filtering results. Data is stored in JSON format, and the backend API supports standard CRUD operations.
 
 ### 🧩 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-424242?&logo=javascript&logoSize=auto&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-424242?&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-424242?&logo=csharp&logoSize=auto&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework_net8.0-424242?)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework_net8.0-424242)
+
+<!-- end:tech-stack -->
 
 ### ✨ Design:
 
-#### [Excalidraw](https://excalidraw.com/#json=MeUynUAkHuvZ8UY_7l9k2,pxLFEeXIYKJaiEv8RDvJxQ) | [Figma](https://www.figma.com/design/JQUoWwboyuKyu7vX0wS5Bd/HjerteJul?node-id=0-1&p=f&t=Jvo5dpt973x4ygY3-0)
+### [Excalidraw](https://excalidraw.com/#json=MeUynUAkHuvZ8UY_7l9k2,pxLFEeXIYKJaiEv8RDvJxQ) | [Figma](https://www.figma.com/design/JQUoWwboyuKyu7vX0wS5Bd/HjerteJul?node-id=0-1&p=f&t=Jvo5dpt973x4ygY3-0) | [Demo](https://inna-b10.github.io/HjerteJul/)
 
 ### 🎓 Contributors:
 
@@ -61,7 +67,7 @@ Man skal bruke `HTML`, `CSS`, `Javascript` og gjerne `JSON` til oppgaven.
 - [ ] more error checking on server side and send clear message to client side
 
 <details style="border:1px solid #d4d4d4; border-radius:2px; padding:1rem;">
-<summary><h4 style="display:inline; padding-left:6px;">✅ Done:</h4></summary>
+<summary><h4 style="display:inline; padding-left:6px;">✅ Done</h4></summary>
 
 - [x] return NoContent() change to response,response.status, response.statusText
 - [x] [FIXME] select in renderForm()
